@@ -1,0 +1,20 @@
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\bin\Debug\sqlToPGSQL.exe.config
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\bin\Debug\sqlToPGSQL.exe
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\bin\Debug\sqlToPGSQL.pdb
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\obj\Debug\sqlToPGSQL.csprojResolveAssemblyReference.cache
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\obj\Debug\sqlToPGSQL.Form1.resources
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\obj\Debug\sqlToPGSQL.Properties.Resources.resources
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\obj\Debug\sqlToPGSQL.csproj.GenerateResource.Cache
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\obj\Debug\sqlToPGSQL.exe
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\obj\Debug\sqlToPGSQL.pdb
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\bin\Debug\Npgsql.dll
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\bin\Debug\Npgsql.xml
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\bin\Debug\sqlToPGSQL.exe.manifest
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\bin\Debug\sqlToPGSQL.application
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\obj\Debug\sqlToPGSQL.exe.manifest
+C:\Users\asava\Documents\Visual Studio 2015\Projects\Pgsql_Ef\sqlToPGSQL\obj\Debug\sqlToPGSQL.application
+C:\Git\Atakansavas\Mssql-Tables-to-Postgresql-Tables\bin\Debug\sqlToPGSQL.exe.config
+C:\Git\Atakansavas\Mssql-Tables-to-Postgresql-Tables\obj\Debug\sqlToPGSQL.exe
+C:\Git\Atakansavas\Mssql-Tables-to-Postgresql-Tables\obj\Debug\sqlToPGSQL.pdb
