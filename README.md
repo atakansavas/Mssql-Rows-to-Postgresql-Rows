@@ -28,4 +28,4 @@ And here's some code! :+1:
      clResult = clName;
 ```
 
-[This lines](https://github.com/atakansavas/Mssql-Rows-to-Postgresql-Rows/blob/master/Form1.cs) means, it not include that columns in the query. Thats for my base object.
+[This lines](https://github.com/atakansavas/Mssql-Rows-to-Postgresql-Rows/blob/master/Form1.cs) means, i will change some column names for my base object.
